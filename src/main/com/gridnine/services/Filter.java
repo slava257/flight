@@ -2,7 +2,6 @@ package main.com.gridnine.services;
 
 import main.com.gridnine.model.AirTravel;
 import main.com.gridnine.model.Segment;
-
 import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;
